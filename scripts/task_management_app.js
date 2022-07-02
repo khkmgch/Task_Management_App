@@ -274,7 +274,7 @@ var vm = new Vue({
             <draggable :options="{group:'ITEMS'}" class="d-flex pa-3">
                 <task-section v-for="section in sections" :key="section.id" :section="section" :sections="sections" @dele-sec="deleSec"></task-section>
             </draggable>
-            <v-btn class="ma-1" text icon color="indigo darken-1" @click="addSec">
+            <v-btn class="ma-3" text icon color="indigo darken-1" @click="addSec">
                 <v-icon>add</v-icon>
             </v-btn>
         </div>
