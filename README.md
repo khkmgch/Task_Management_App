@@ -1,4 +1,4 @@
-# Task_Management_App
+# Training_Management_App
 
 ## Descripsiton
 RecursionのProject「Task_Management_App」で作成しました。
