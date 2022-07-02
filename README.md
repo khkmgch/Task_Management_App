@@ -1,17 +1,17 @@
 # Training_Management_App
 
 ## Descripsiton
-RecursionのProject「Task_Management_App」で作成しました。
+RecursionのProject「Task_Management_App」で
+
+Vueコンポーネントの練習を兼ねて作成しました。
 
 トレーニングメニューを管理できるアプリです。
 ![task_management_app_1](https://user-images.githubusercontent.com/101968115/176995995-472027a0-1138-40a4-9dd4-c2b190a05ba6.png)
 
 
-Vue
+見た目はVuetifyとマテリアルデザインを用いて作成しました。
 
-Vuetify
-
-Vue Draggable
+作成したカードはVue Draggableでドラッグして入れ替えることができます。
 
 ## Url
 https://khkmgch.github.io/Task_Management_App/
