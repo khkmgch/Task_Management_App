@@ -8,7 +8,9 @@ RecursionのProject「Task_Management_App」で作成しました。
 
 
 Vue
+
 Vuetify
+
 Vue Draggable
 
 ## Url
